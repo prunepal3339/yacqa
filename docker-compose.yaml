@@ -1,0 +1,4 @@
+services:
+  golang:
+    image: prunepal333/yacqa
+    build: .
